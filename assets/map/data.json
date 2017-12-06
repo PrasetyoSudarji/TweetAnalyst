@@ -1,0 +1,1162 @@
+statuses = [
+    {
+      "created_at": "Thu Oct 26 14:51:37 +0000 2017",
+      "id": 923562767012978693,
+      "id_str": "923562767012978693",
+      "text": "Hampir semua client makeup aku selalu tanya warna shade lipcream ini kalau aku makeup in… https://t.co/pnxjjPKcve",
+      "user": {
+        "id": 1377118675,
+        "id_str": "1377118675",
+        "name": "meily fatanagina",
+        "screen_name": "MFatanagina"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.41633845,
+          105.24823657
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 14:37:49 +0000 2017",
+      "id": 923559295584673792,
+      "id_str": "923559295584673792",
+      "text": "Wardah matte intensive lipcream shade 09 mauve on ini udah kecintaan dari pertama kali wardah… https://t.co/bURB53DetG",
+      "user": {
+        "id": 1377118675,
+        "id_str": "1377118675",
+        "name": "meily fatanagina",
+        "screen_name": "MFatanagina"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.41633845,
+          105.24823657
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 14:33:26 +0000 2017",
+      "id": 923558191484596224,
+      "id_str": "923558191484596224",
+      "text": "Bisa membuat keluarga bahagia adalah salah satu momen paling membahagiakan dalam hidup ini @… https://t.co/CpYhg9jLMB",
+      "user": {
+        "id": 86027695,
+        "id_str": "86027695",
+        "name": "anjas agung prayudha",
+        "screen_name": "anjas_charming"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 14:27:51 +0000 2017",
+      "id": 923556785893634049,
+      "id_str": "923556785893634049",
+      "text": "not everyone is predictable😉 #candid #lfl @ Tanjung Karang Pusat https://t.co/D8NiyunCJK",
+      "user": {
+        "id": 634355747,
+        "id_str": "634355747",
+        "name": "poo",
+        "screen_name": "ViinaNhadir_"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.41442038,
+          105.23732337
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 14:20:06 +0000 2017",
+      "id": 923554836007628800,
+      "id_str": "923554836007628800",
+      "text": "Night Batman💙 see you di alam mimpi yaa😍\n#verrellbramasta @ Lampung https://t.co/0HzU1v6wyB",
+      "user": {
+        "id": 2326981626,
+        "id_str": "2326981626",
+        "name": "VerrellAddct Lampung",
+        "screen_name": "VerreladdictLPG"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+
+        {
+      "created_at": "Thu Oct 26 14:16:03 +0000 2017",
+      "id": 923553817500749824,
+      "id_str": "923553817500749824",
+      "text": "Yeayyy congrats kesyangan💕 @ Lampung https://t.co/p9asCnlMJN",
+      "user": {
+        "id": 2326981626,
+        "id_str": "2326981626",
+        "name": "VerrellAddct Lampung",
+        "screen_name": "VerreladdictLPG"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 14:14:17 +0000 2017",
+      "id": 923553373353324545,
+      "id_str": "923553373353324545",
+      "text": "I'm at Toko Aneka Sari Rasa https://t.co/BX1EiGkQP0",
+      "user": {
+        "id": 153478134,
+        "id_str": "153478134",
+        "name": "handy wiradharma",
+        "screen_name": "handywiradharma"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.4486613,
+          105.2624685
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 14:03:31 +0000 2017",
+      "id": 923550665204518912,
+      "id_str": "923550665204518912",
+      "text": "#potrait @ Pantai Puri Gading https://t.co/1MzKXHWWLu",
+      "user": {
+        "id": 154299188,
+        "id_str": "154299188",
+        "name": "garda kharisma s",
+        "screen_name": "GardaKharisma"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.47119512,
+          105.24928848
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 13:55:41 +0000 2017",
+      "id": 923548689922232320,
+      "id_str": "923548689922232320",
+      "text": "Kalau menginginkan sesuatu itu gerak berusaha gimana biar bisa dapetinnya, bukannya malah emosi… https://t.co/06yAIRnjzl",
+      "user": {
+        "id": 3103153362,
+        "id_str": "3103153362",
+        "name": "elimaryana",
+        "screen_name": "ElyyMaryana"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.42026484,
+          105.22835880
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 13:49:01 +0000 2017",
+      "id": 923547012061999104,
+      "id_str": "923547012061999104",
+      "text": "ACEH!!!!  \nI  💖 ACEH\npantai lampuuk salah satu lokasi yang rusak… https://t.co/DlPNpLKDA2",
+      "user": {
+        "id": 546626859,
+        "id_str": "546626859",
+        "name": "AnggiLee_",
+        "screen_name": "anggiyewookie"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.39610975,
+          105.2892612
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 13:48:42 +0000 2017",
+      "id": 923546934953918464,
+      "id_str": "923546934953918464",
+      "text": "At Hotel Nusantara — https://t.co/JqOu8QIH7X",
+      "user": {
+        "id": 94031431,
+        "id_str": "94031431",
+        "name": "Eva Widaranti",
+        "screen_name": "EvaaSaid92"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.39625,
+          105.2902
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 13:44:30 +0000 2017",
+      "id": 923545878438100992,
+      "id_str": "923545878438100992",
+      "text": "Kusuka senja, juga kamu...\n\nLoc: Pantai Pahawang, Lampung\n#latepost #senja #twilight #pahawang… https://t.co/w6mOdCfye6",
+      "user": {
+        "id": 411514009,
+        "id_str": "411514009",
+        "name": "Yusmaini Dwi Rohani",
+        "screen_name": "yusmagaol"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.41998456,
+          105.25824347
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 12:45:21 +0000 2017",
+      "id": 923530990848323584,
+      "id_str": "923530990848323584",
+      "text": "Kemah Konservasi Lembah Hijau 2017\n\"Satwaku, Alamku, Tanggung Jawabku, Masa Depanku\"\n\nLembaga… https://t.co/nuF35JyiLE",
+      "user": {
+        "id": 633601057,
+        "id_str": "633601057",
+        "name": "Rasyid ibransyah",
+        "screen_name": "R_Ibransyah"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.4103566,
+          105.23218306
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 12:44:32 +0000 2017",
+      "id": 923530785415680000,
+      "id_str": "923530785415680000",
+      "text": "I'm at New Jumbo Kakap Sea Food in Bandar Lampung, Lampung https://t.co/rDNrjcMfo2",
+      "user": {
+        "id": 153478134,
+        "id_str": "153478134",
+        "name": "handy wiradharma",
+        "screen_name": "handywiradharma"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45139208,
+          105.26476163
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 12:33:55 +0000 2017",
+      "id": 923528113346285568,
+      "id_str": "923528113346285568",
+      "text": "wakeupcafe_ salah satu tempat bersauh hola di hari kedua Coffee Shop Trip. Jika kesana jangan… https://t.co/fl1OYtAHvS",
+      "user": {
+        "id": 105465835,
+        "id_str": "105465835",
+        "name": "Holaspica",
+        "screen_name": "holaspica"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.266667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 12:25:54 +0000 2017",
+      "id": 923526096628473856,
+      "id_str": "923526096628473856",
+      "text": "🐦love bird , @ Lampung https://t.co/ivQAdx9oSZ",
+      "user": {
+        "id": 245818015,
+        "id_str": "245818015",
+        "name": "Mas'ud oktari",
+        "screen_name": "masudOKT"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 12:11:43 +0000 2017",
+      "id": 923522528106053638,
+      "id_str": "923522528106053638",
+      "text": "ABRAKADABRA trip!!\nMenghadirkan Loka Karya dan Workshop\n\"VISUAL ART x FASHION\"\n\nRangkaian trip… https://t.co/1CWKOmxPVa",
+      "user": {
+        "id": 107953463,
+        "id_str": "107953463",
+        "name": "Bintang Bimantara",
+        "screen_name": "firstbintang_"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.42331813,
+          105.26954255
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 12:02:00 +0000 2017",
+      "id": 923520083183394816,
+      "id_str": "923520083183394816",
+      "text": "At Panti Asuhan Kita Peduli [pic] — https://t.co/oSAryc0Gk0",
+      "user": {
+        "id": 709612624187527168,
+        "id_str": "709612624187527168",
+        "name": "Panti Kita Peduli",
+        "screen_name": "pantikitapeduli"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.42469,
+          105.25479
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 11:35:27 +0000 2017",
+      "id": 923513401447534593,
+      "id_str": "923513401447534593",
+      "text": "Hasil Pertandingan\nTURNAMEN BLESTER ADJIE FC CUP\n\nGB UNITED FC 0-2 PERSIBED FC\nKamis, 26 Oktober… https://t.co/EuBQIs11nv",
+      "user": {
+        "id": 556618859,
+        "id_str": "556618859",
+        "name": "GB United FC",
+        "screen_name": "Gb_United"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.266667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 10:59:54 +0000 2017",
+      "id": 923504454166548487,
+      "id_str": "923504454166548487",
+      "text": "AUR TERJUN SEMANTUNG\n.\n.\nPAGAR DEWA LAMPUNG BARAT\n.\n.\nSaya ceritakan sedikit perjalanan ke… https://t.co/qwICnXmzfz",
+      "user": {
+        "id": 98890482,
+        "id_str": "98890482",
+        "name": "Endang Guntoro",
+        "screen_name": "endangguntoro"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 10:40:20 +0000 2017",
+      "id": 923499530766598144,
+      "id_str": "923499530766598144",
+      "text": "At Hotel Novotel Bandar Lampung [pic] — https://t.co/UcDJaOhZQm",
+      "user": {
+        "id": 153478134,
+        "id_str": "153478134",
+        "name": "handy wiradharma",
+        "screen_name": "handywiradharma"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.44028,
+          105.28891
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 10:39:15 +0000 2017",
+      "id": 923499258032013312,
+      "id_str": "923499258032013312",
+      "text": "At Hotel Novotel Bandar Lampung [pic] — https://t.co/Lv4tCUbPZy",
+      "user": {
+        "id": 153478134,
+        "id_str": "153478134",
+        "name": "handy wiradharma",
+        "screen_name": "handywiradharma"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.44021,
+          105.28891
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 10:37:15 +0000 2017",
+      "id": 923498753285275649,
+      "id_str": "923498753285275649",
+      "text": "At Hotel Novotel Bandar Lampung [pic] — https://t.co/S0ztWZU6LC",
+      "user": {
+        "id": 153478134,
+        "id_str": "153478134",
+        "name": "handy wiradharma",
+        "screen_name": "handywiradharma"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.44024,
+          105.28897
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 10:28:48 +0000 2017",
+      "id": 923496626399862784,
+      "id_str": "923496626399862784",
+      "text": "At Lampung Walk — https://t.co/uBHDIP2CwS",
+      "user": {
+        "id": 592523470,
+        "id_str": "592523470",
+        "name": "♛ G H E A ♛",
+        "screen_name": "GheaAnggraini1"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.39074,
+          105.27644
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 10:24:12 +0000 2017",
+      "id": 923495468335751169,
+      "id_str": "923495468335751169",
+      "text": "PayTren itu adalah contoh solusi terbaik bangsa untuk masalah keuangan\n-kata Pak Sandi… https://t.co/QORKoicUk0",
+      "user": {
+        "id": 396032229,
+        "id_str": "396032229",
+        "name": "Abu Yusuf (Sugenk)",
+        "screen_name": "GhulanFaeyza"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.3969861,
+          105.2640113
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 10:17:49 +0000 2017",
+      "id": 923493863796477952,
+      "id_str": "923493863796477952",
+      "text": "AIR TERJUN SEMANTUNG\n.\n.\nLokasi : PEKON BASUNGAN\nKEC. PAGAR DEWA LAMPUNG BARAT\n.\n.\nmerupakan… https://t.co/zoo8Qb7Rci",
+      "user": {
+        "id": 98890482,
+        "id_str": "98890482",
+        "name": "Endang Guntoro",
+        "screen_name": "endangguntoro"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 10:03:31 +0000 2017",
+      "id": 923490263703736320,
+      "id_str": "923490263703736320",
+      "text": "#anakpapi #amaberaksi \nGak bisa denger orang nyanyi salah, apalagi lagu yang ia kuasai langsung… https://t.co/x9SNcpS52C",
+      "user": {
+        "id": 579197918,
+        "id_str": "579197918",
+        "name": "Kia Harvesya",
+        "screen_name": "KiaHarvesya"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 09:59:47 +0000 2017",
+      "id": 923489323953131520,
+      "id_str": "923489323953131520",
+      "text": ".\nFoto/ courtesy: ryenfebry_08\n.\nLokasi : Gardenia Lempasing Pesawaran… https://t.co/ZOn4dUCwbw",
+      "user": {
+        "id": 912988594691751937,
+        "id_str": "912988594691751937",
+        "name": "seLampung wawai",
+        "screen_name": "SelampungH"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 09:46:51 +0000 2017",
+      "id": 923486071500898304,
+      "id_str": "923486071500898304",
+      "text": "At Panti Asuhan Kita Peduli [pic] — https://t.co/rNO58f79R4",
+      "user": {
+        "id": 709612624187527168,
+        "id_str": "709612624187527168",
+        "name": "Panti Kita Peduli",
+        "screen_name": "pantikitapeduli"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.42476,
+          105.2547
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 09:39:24 +0000 2017",
+      "id": 923484194755567616,
+      "id_str": "923484194755567616",
+      "text": "hello \nbuat kalian yang mau foto prewedding sebelum hari pernikahan kami dari sonartphotography… https://t.co/3gmdzbSPMK",
+      "user": {
+        "id": 86027695,
+        "id_str": "86027695",
+        "name": "anjas agung prayudha",
+        "screen_name": "anjas_charming"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 08:37:02 +0000 2017",
+      "id": 923468501498466304,
+      "id_str": "923468501498466304",
+      "text": "AIR TERJUN SEMANTUNG\n.\n.\nLokasi : PEKON BASUNGAN\nKEC. PAGAR DEWA LAMPUNG BARAT\n.\n.\nmerupakan… https://t.co/8RcBStmogo",
+      "user": {
+        "id": 98890482,
+        "id_str": "98890482",
+        "name": "Endang Guntoro",
+        "screen_name": "endangguntoro"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 08:31:25 +0000 2017",
+      "id": 923467085707177985,
+      "id_str": "923467085707177985",
+      "text": "early sunsets, messy hair 🌅🌴 @ Lampung https://t.co/1I45RMAx5o",
+      "user": {
+        "id": 772808328,
+        "id_str": "772808328",
+        "name": "Ratih Wulandari",
+        "screen_name": "ntihoki"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 08:20:37 +0000 2017",
+      "id": 923464368246874113,
+      "id_str": "923464368246874113",
+      "text": "No caption needed @ Damai Coffee Roastery https://t.co/BSNXUSRoim",
+      "user": {
+        "id": 404063785,
+        "id_str": "404063785",
+        "name": "fita ansela 막내",
+        "screen_name": "maknae_fita"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.44418372,
+          105.28063059
+        ]
+      }
+    }, 
+    {
+      "created_at": "Thu Oct 26 08:03:58 +0000 2017",
+      "id": 923460179601055744,
+      "id_str": "923460179601055744",
+      "text": "Izin repost om irsanmurhan \nTaken by @AdjiMix @ Bandar Lampung https://t.co/jwydqVjtlq",
+      "user": {
+        "id": 121280724,
+        "id_str": "121280724",
+        "name": "romy enterprise",
+        "screen_name": "romy_enterprise"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.266667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 08:02:49 +0000 2017",
+      "id": 923459888486993920,
+      "id_str": "923459888486993920",
+      "text": "#triptolampung ✈️✈️✈️🌐 @ Lampung https://t.co/tQk5ebpDyb",
+      "user": {
+        "id": 86837242,
+        "id_str": "86837242",
+        "name": "Ferri Naldo MppGr",
+        "screen_name": "fn_0402"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 07:22:00 +0000 2017",
+      "id": 923449618750476288,
+      "id_str": "923449618750476288",
+      "text": "Hidup itu mudah, yang sulit ngelawan omongan orang-orang 🙊🙈🙉\n\n📷 @ophalenkinkenk… https://t.co/VuzJfuAseL",
+      "user": {
+        "id": 342598742,
+        "id_str": "342598742",
+        "name": "♛El Shinta ♛",
+        "screen_name": "el_shintaa"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.41633845,
+          105.24823657
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 07:13:57 +0000 2017",
+      "id": 923447591139864576,
+      "id_str": "923447591139864576",
+      "text": ".\n.\nFoto/ courtesy: @vikalsamudra\n.\nLokasi : Katang Gigi Hiu, (Batu Layar) Pengadungan,… https://t.co/lG5qct8sAa",
+      "user": {
+        "id": 912988594691751937,
+        "id_str": "912988594691751937",
+        "name": "seLampung wawai",
+        "screen_name": "SelampungH"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 07:04:01 +0000 2017",
+      "id": 923445091951288320,
+      "id_str": "923445091951288320",
+      "text": "At @stkippgri_bdl — https://t.co/e9Hi7zu86b",
+      "user": {
+        "id": 242665783,
+        "id_str": "242665783",
+        "name": "Ratna",
+        "screen_name": "Ratnashevava"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.42012,
+          105.24479
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 07:01:34 +0000 2017",
+      "id": 923444476638478336,
+      "id_str": "923444476638478336",
+      "text": "With Sepriyanto, Yudi, and Haris at UluBeluKopiCafe&Shop [pic] — https://t.co/R7e0BLkJAp",
+      "user": {
+        "id": 235843626,
+        "id_str": "235843626",
+        "name": "Nurstriratna P",
+        "screen_name": "nurstriratna"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.44494,
+          105.27273
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 06:58:16 +0000 2017",
+      "id": 923443644115378176,
+      "id_str": "923443644115378176",
+      "text": "Akhirnyaaa ketemuu jugaaak kaakhmad  kurus dirimu sekarang say, tapi… https://t.co/rNboBCtTH9",
+      "user": {
+        "id": 890403854692384768,
+        "id_str": "890403854692384768",
+        "name": "Novriyanti",
+        "screen_name": "Novriyanti28"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.41955852,
+          105.25989344
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 06:33:55 +0000 2017",
+      "id": 923437518615400448,
+      "id_str": "923437518615400448",
+      "text": "#Latepost 😅\n\n next kapan lagi ayok vina.w @lingga_99th hennybunga  😅😅😅 @ Pizza hut raden intan… https://t.co/cpqId0Zopr",
+      "user": {
+        "id": 125324924,
+        "id_str": "125324924",
+        "name": "Ahmad Septian",
+        "screen_name": "ahmd_septian"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.266667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 06:20:52 +0000 2017",
+      "id": 923434234043338759,
+      "id_str": "923434234043338759",
+      "text": "```Jenis Kalimat Yang Menghambat Keberhasilan Seseorang:```\n\n*1. Saya Tidak Bisa (I… https://t.co/ZHeXd8X1Mj",
+      "user": {
+        "id": 396032229,
+        "id_str": "396032229",
+        "name": "Abu Yusuf (Sugenk)",
+        "screen_name": "GhulanFaeyza"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.3969861,
+          105.2640113
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 04:16:07 +0000 2017",
+      "id": 923402838281216000,
+      "id_str": "923402838281216000",
+      "text": "Buruan Daftarkan Group Anda Untuk mengikuti Kontes Kuda Lumping Terbesar Dilampung.\n\nInfo Lebih… https://t.co/OYTRwLvjbX",
+      "user": {
+        "id": 912988594691751937,
+        "id_str": "912988594691751937",
+        "name": "seLampung wawai",
+        "screen_name": "SelampungH"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 04:09:38 +0000 2017",
+      "id": 923401207837630464,
+      "id_str": "923401207837630464",
+      "text": "With Naafi, Bony, and KontingenDIY at @gorsaburai — https://t.co/PwzcawMHBm",
+      "user": {
+        "id": 1348579040,
+        "id_str": "1348579040",
+        "name": "I. W. Setyawan",
+        "screen_name": "IrfanWahyu20"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.41956,
+          105.26058
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 03:48:52 +0000 2017",
+      "id": 923395982917697536,
+      "id_str": "923395982917697536",
+      "text": "Tim Juri Lomba Mading 3D di SMA IMANUEL Bandar Lampung \n\n@armalia1 \nferdi_awed \n\n#juri #love… https://t.co/UaUDf1YlFL",
+      "user": {
+        "id": 411938175,
+        "id_str": "411938175",
+        "name": "yandigsa",
+        "screen_name": "yandigsa82"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.4294,
+          105.2639
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 03:42:48 +0000 2017",
+      "id": 923394452772700160,
+      "id_str": "923394452772700160",
+      "text": "At IGD RS Urip Sumoharjo — https://t.co/tdgOWRZG6P",
+      "user": {
+        "id": 1419674881,
+        "id_str": "1419674881",
+        "name": "Idris fardiyansyah",
+        "screen_name": "idris_f1996"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.39246,
+          105.27796
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 03:28:17 +0000 2017",
+      "id": 923390801090170882,
+      "id_str": "923390801090170882",
+      "text": ".\n.\nFoto/ courtesy: bheny_sagita\n.\nLokasi : Arter Talang Budi,  Bringin Jaya,  Ulubelu,… https://t.co/GhDSQp9IXD",
+      "user": {
+        "id": 912988594691751937,
+        "id_str": "912988594691751937",
+        "name": "seLampung wawai",
+        "screen_name": "SelampungH"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 03:26:23 +0000 2017",
+      "id": 923390323362996224,
+      "id_str": "923390323362996224",
+      "text": "mencari inspirasi sejenak.. lepas dari hiruk pikuk nya dunia.. @ B.lampung kemiling city https://t.co/fAi8ot2dcP",
+      "user": {
+        "id": 467668087,
+        "id_str": "467668087",
+        "name": "Rian D'MASIV",
+        "screen_name": "RianEkkyP"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.39215454,
+          105.21947226
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 03:04:01 +0000 2017",
+      "id": 923384695978676224,
+      "id_str": "923384695978676224",
+      "text": "? 😌 @ Lampung https://t.co/gQGfXMqfl5",
+      "user": {
+        "id": 2340026275,
+        "id_str": "2340026275",
+        "name": "Susi Yanti",
+        "screen_name": "Zusiyanti26"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:51:52 +0000 2017",
+      "id": 923381635629895680,
+      "id_str": "923381635629895680",
+      "text": "EXPLORE - AIR TERJUN SEMANTUNG\n.\n.\nLokasi : PEKON BASUNGAN\nKEC. PAGAR DEWA LAMPUNG… https://t.co/8fRPXxxKIp",
+      "user": {
+        "id": 98890482,
+        "id_str": "98890482",
+        "name": "Endang Guntoro",
+        "screen_name": "endangguntoro"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:42:16 +0000 2017",
+      "id": 923379219350003713,
+      "id_str": "923379219350003713",
+      "text": "With Christian at Mie Pangsit Anugerah Khas Bangka — https://t.co/rN14YvCCsg",
+      "user": {
+        "id": 371653055,
+        "id_str": "371653055",
+        "name": "Vivi Hermawan",
+        "screen_name": "vvhrmwn"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45093,
+          105.26011
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:42:12 +0000 2017",
+      "id": 923379203206152197,
+      "id_str": "923379203206152197",
+      "text": "Istri itu baik buruknya tergantung suami.\n\ncantik, bila si suami… https://t.co/1jUgXhAHws",
+      "user": {
+        "id": 574470458,
+        "id_str": "574470458",
+        "name": "MDS",
+        "screen_name": "meidadwi"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.434364,
+          105.2583492
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:40:36 +0000 2017",
+      "id": 923378801966493696,
+      "id_str": "923378801966493696",
+      "text": "#Repost arthadinata_ar\n・・・\nKeindahan yang sesungguhnya adalah pada proses menuju keindahan.… https://t.co/l02GpOUe0L",
+      "user": {
+        "id": 98890482,
+        "id_str": "98890482",
+        "name": "Endang Guntoro",
+        "screen_name": "endangguntoro"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:38:06 +0000 2017",
+      "id": 923378173064093696,
+      "id_str": "923378173064093696",
+      "text": "Sirna by Virzha (at Sempoa SIP Bukit Kencana) — https://t.co/HvBTOZzO9C",
+      "user": {
+        "id": 518264988,
+        "id_str": "518264988",
+        "name": "Nike Simanjuntak",
+        "screen_name": "nayki_90"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.39496,
+          105.2866
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:33:24 +0000 2017",
+      "id": 923376990937321472,
+      "id_str": "923376990937321472",
+      "text": "Ikutan yuk... Acara keren nih repost genpi_lampung\nby media.repost:\nEl's Coffee Lab by El's… https://t.co/jFZmIDz3Ka",
+      "user": {
+        "id": 104022535,
+        "id_str": "104022535",
+        "name": "arie tomat",
+        "screen_name": "arietomat"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.4445124,
+          105.2730049
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:26:28 +0000 2017",
+      "id": 923375245305593861,
+      "id_str": "923375245305593861",
+      "text": "At Hotel Grande [pic] — https://t.co/248VLZ0rZU",
+      "user": {
+        "id": 53099337,
+        "id_str": "53099337",
+        "name": "Angga Marditama",
+        "screen_name": "anGGadrumaholic"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.41901,
+          105.25892
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:26:06 +0000 2017",
+      "id": 923375152158707713,
+      "id_str": "923375152158707713",
+      "text": "Sate Taichan Unila \n\n#sate #satetaichan #unila #kulinerlampung #lampung #sigerfoodies… https://t.co/EMDFnkZxZZ",
+      "user": {
+        "id": 57683779,
+        "id_str": "57683779",
+        "name": "miko vay",
+        "screen_name": "Mickosaycho"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.266667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:18:21 +0000 2017",
+      "id": 923373202952273920,
+      "id_str": "923373202952273920",
+      "text": "#lampung #bandarlampung #sigerfoodies #kulinerlampung #lampungkuliner #foodieslampung #zamsta… https://t.co/iUIuL8Ovpk",
+      "user": {
+        "id": 57683779,
+        "id_str": "57683779",
+        "name": "miko vay",
+        "screen_name": "Mickosaycho"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.266667
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 02:04:13 +0000 2017",
+      "id": 923369643644944389,
+      "id_str": "923369643644944389",
+      "text": "Last night 📷🍃\nNobar DSC kopfi_lampung \n.\n.\n.\n.\n.\n.\n#DukaSedalamCinta #ketikamasgagahpergi #kmgp… https://t.co/NjPRrpUcUb",
+      "user": {
+        "id": 168990279,
+        "id_str": "168990279",
+        "name": "Susilo Destiawan MRG",
+        "screen_name": "ajosusilodm"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.38564579,
+          105.25478061
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 01:36:48 +0000 2017",
+      "id": 923362743851409408,
+      "id_str": "923362743851409408",
+      "text": "Assalamualaikum Aceh 😹😹 @ Pantai Lampuuk, Aceh https://t.co/Ma7F7McFPh",
+      "user": {
+        "id": 567009913,
+        "id_str": "567009913",
+        "name": "DitaLestariHasanAli",
+        "screen_name": "DitaLestariHA"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.39610975,
+          105.2892612
+        ]
+      }
+    },
+    {
+      "created_at": "Thu Oct 26 01:09:25 +0000 2017",
+      "id": 923355855780802561,
+      "id_str": "923355855780802561",
+      "text": "Selamat pagi Igers, \n.\nLampung memiliki potensi kelautan dan perikanan cukup besar. Yaitu… https://t.co/kKKUZm3bR9",
+      "user": {
+        "id": 220630256,
+        "id_str": "220630256",
+        "name": "Kakak Zack",
+        "screen_name": "kakak_zack"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -5.45,
+          105.26666667
+        ]
+      }
+    }
+  ];
