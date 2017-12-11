@@ -7,3 +7,6 @@ This project is designed to fulfill Geographical Information System (GIS) course
 # Use Your Own  API
 If you want to try using your own API, you have to assign variables in the getDataFromDatabase function on the Home controller.
 
+# Example Page
+![alt text](https://github.com/PrasetyoSudarji/TweetStream/blob/master/assets/Example%20Page.PNG)
+
