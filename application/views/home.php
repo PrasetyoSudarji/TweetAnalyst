@@ -20,15 +20,16 @@
  		foreach ($json_data as $key => $value) {
  			# code...
  			echo 'L.marker(['.$value['lat'].','.$value['long'].'])
-		         .bindPopup("created_at : '.$value['created_at'].'<br/> User : '.$value['screen_name'].'<br/> Tweet : '.$value['tweet_content'].'")
-		         .addTo( map );';
+ 				.addTo( map )
+		        .bindPopup("created_at : '.$value['created_at'].'<br/> User : '.$value['screen_name'].'<br/> Tweet : '.$value['tweet_content'].'")
+		        .openPopup();';
  		}
 
  	?>
 
- 	setTimeout(function(){
-	   window.location.reload(1);
-	}, 60000);
+ // 	setTimeout(function(){
+	//    window.location.reload(1);
+	// }, 10000);
 
 </script> 
 

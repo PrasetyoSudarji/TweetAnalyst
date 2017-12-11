@@ -19,13 +19,9 @@ class Home extends CI_Controller {
 		$this->load->view('template/wrapper', $data);
 	}
 
-	public function getDataFromUrl(){
+	public function GeomFromText($lat, $long){
 
-		$url = base_url()."assets/map/stream_tweet.json";
-		$string = file_get_contents($url);
-		//$json_data = json_decode($string, true);
-		$json_data = $string;
-		return $json_data;
+		
 	}
 
 	public function getDataFromDatabase(){
@@ -52,10 +48,12 @@ class Home extends CI_Controller {
 						'tweet_content' => $json_data[$i]['text'],
 						'lat' => $json_data[$i]['geo']['coordinates'][0],
 						'long' => $json_data[$i]['geo']['coordinates'][1],
-						'created_at' => $json_data[$i]['created_at']
+						'created_at' => $json_data[$i]['created_at'],
 					);
 
 					$this->Model->insert_data('tb_tweet',$data_insert);
+
+					//$this->Model->update_geom($json_data[$i]['id_str'],$json_data[$i]['geo']['coordinates'][0],$json_data[$i]['geo']['coordinates'][1]);
 				}
 				$i++;
 			}
